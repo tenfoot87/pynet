@@ -1,6 +1,4 @@
 print ('hello world')
 fruit = ['apple', 'banana']
 
-
-
-#adding comments is fun
+#adding more comments
